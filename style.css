@@ -58,7 +58,7 @@ button:focus {
     transform: rotate(45deg);
 }
 
-.complited {
+.completed {
     position: absolute;
     top: 16px;
     width: 100%;
@@ -69,7 +69,7 @@ button:focus {
     opacity: 0;
 }
 
-.complited svg {
+.completed svg {
             width: 12px;
             height: 10px;
             fill: none;
@@ -80,4 +80,4 @@ button:focus {
             stroke-linejoin: round;
             stroke-dasharray: 16px;
             stroke-dashoffset: 16px;
-}
+            }
