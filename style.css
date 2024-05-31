@@ -77,7 +77,7 @@ button:focus {
             stroke: #16BF78;
             stroke-width: 2;
             stroke-linecap: round;
-            stroke-linejoin: 16px;
+            stroke-linejoin: round;
             stroke-dasharray: 16px;
             stroke-dashoffset: 16px;
 }
